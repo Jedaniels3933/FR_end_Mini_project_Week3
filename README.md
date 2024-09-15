@@ -90,7 +90,7 @@ Can place these enhancements into this project to gain additional grading points
 - Create a GitHub repository for the project and commit code regularly.
 - Maintain a clean and interactive README.md file in the GitHub repository, providing clear instructions on how to run the application and explanations of its features.
 - Include a link to the GitHub repository in the project documentation.
-- That link can be found here https://github.com/Jedaniels3933/
+- That link can be found here https://[github.com/Jedaniels3933/](https://github.com/Jedaniels3933/FR_end_Mini_project_Week3)
 
 
 
